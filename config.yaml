@@ -1,0 +1,6 @@
+path: /Users/johndoe/python/playground/coindetector/data
+train: images
+val: images
+
+names: 
+  0: "coin"
